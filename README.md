@@ -85,7 +85,6 @@ Contributions to this project are welcome. If you'd like to contribute, please f
 # License
 This project is licensed under the MIT License. You are free to use and modify the code as long as you follow the terms of the license.
 
-Please replace "your-username" and adapt the content to your specific project's needs. This README file provides an overview of the Public Transportation Efficiency Analysis project, its motivation, features, data sources, dependencies, and instructions for getting started and contributing to the project.
 
  Dataset Link: https://www.kaggle.com/datasets/rednivrug/unisys?select=20140711.CSV
  

@@ -60,7 +60,7 @@ Getting Started
 To set up and run the project, follow these steps:
 
 # Installation
-Clone the repository:
+Clone the repository:https://github.com/KPRAHUL1/Data-Analytics-with-Cognos-Group5.git
 
 # bash
 Copy code
